@@ -1,0 +1,33 @@
+{
+  "name": "allaboutparenting",
+  "version": "1.0.0",
+  "description": "This is India's no1 parenting website by sanju",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjushekhawat791/allaboutparenting.git"
+  },
+  "keywords": [
+    "parenting",
+    "website",
+    "sanju",
+    "best",
+    "parenting",
+    "website"
+  ],
+  "author": "Sanju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjushekhawat791/allaboutparenting/issues"
+  },
+  "homepage": "https://github.com/sanjushekhawat791/allaboutparenting#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
